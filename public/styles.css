@@ -57,6 +57,9 @@ h3{
 .content{
   margin-left: 20px;
 }
+.welcome{
+ text-align: center;
+}
 
 p.source{
   color: grey;
